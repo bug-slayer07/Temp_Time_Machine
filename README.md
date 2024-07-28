@@ -1,5 +1,8 @@
 # Temp_Time_Machine
 
+# CS F320 - Foundations of Data Science
+## Capstone project
+
 # Maximum Temperature Forecasting using ARIMA
 
 This project involves forecasting maximum temperatures using data collected from a weather detection app and then deploying an ARIMA (AutoRegressive Integrated Moving Average) time series analysis model. The project pipeline includes data collection, preprocessing, exploratory data analysis, model development, and performance evaluation.
